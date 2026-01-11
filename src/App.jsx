@@ -9,7 +9,7 @@ function App() {
   return (
     <>       
         <div>
-          <h1>hi welcome to react</h1>
+          <h1>hi welcome to basic react</h1>
           <h2>this is my first react class</h2>
         </div>
     </>
